@@ -1,0 +1,14 @@
+{
+    "projectId": "paraBa",
+    "reporter":"mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/report/mochawesome-report",
+        "overwrite": true,
+        "reportFilename": "report",
+        "charts": true,
+        "html": true,
+        "json": true,
+        "timestamp": "mmddyyyy_HHMMss"
+    },
+    "screenshotsFolder": "cypress/report/mochawesome-report/assets"
+}

@@ -1,0 +1,7 @@
+{
+    "scripts": {
+      "cypress:open": "cypress open",
+      "cypress:run": "cypress run",
+      "cypress:report": "generate-mochawesome-report"
+    }
+}
